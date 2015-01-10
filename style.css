@@ -1,9 +1,12 @@
 body {
     font-size: 40px;
     color: black;
+    background-color: white;
     font-family: Georgia, serif;
 }
 h1 {
-    color: yellow;
-    background-color: blue;
+    font-size: 40px;
+    color: black;
+    background-color: white;
+    font-family: Georgia, serif;
 }

@@ -12,3 +12,6 @@ h1 {
     display: block;
     font-weight: bold;
 }
+ul {
+    border:50;
+}

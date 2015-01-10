@@ -37,6 +37,15 @@ h2 {
     margin-top:1em;
     margin-bottom:1em;
 }
+h3 {
+    font-size: 1em;
+    color: black;
+    background-color: white;
+    font-family: Georgia, serif;
+    display: block;
+    font-weight: bold;
+    margin:0;
+}
 ul {
     border:0;
 }

@@ -24,6 +24,7 @@ h1 {
     font-family: Georgia, serif;
     display: block;
     font-weight: bold;
+    margin-bottom:2em;
 }
 ul {
     border:0;

@@ -28,3 +28,7 @@ h1 {
 ul {
     border:0;
 }
+.navigation {
+    color: red;
+    font-weight: bold;
+}

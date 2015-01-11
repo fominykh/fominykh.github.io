@@ -54,6 +54,9 @@ ul {
     border:0;
     text-align:justify;
 }
+ul.a{
+    list-style-type: circle;
+}
 table.navigation {
     background:#F2F2F2;
     text-align:center;

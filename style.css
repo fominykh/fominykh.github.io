@@ -65,11 +65,11 @@ ul {
     padding:0;
 }
 li{
-    padding: 0 0 1px 2em;
+    
 }
 #disc {
   list-style-type: disc;
-  font-size:1em;
+  padding: 0 0 1px 2em;
 }
 #none {
   list-style-type: none;

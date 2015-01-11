@@ -69,7 +69,7 @@ li{
 }
 #disc {
   list-style-type: disc;
-  padding: 0 0 1px 2em;
+  padding: 0 0 1px 1px;
 }
 #none {
   list-style-type: none;

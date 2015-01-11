@@ -66,6 +66,7 @@ ul {
 table.navigation {
     background:#F2F2F2;
     text-align:center;
+    padding: 0px 10px 0px 50px;
 }
 table.content {
     background:white;

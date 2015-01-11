@@ -53,7 +53,7 @@ p{
 ul {
     border:0;
     text-align:justify;
-    list-style: square outside none;
+    list-style: square inside none;
 }
 
 table.navigation {

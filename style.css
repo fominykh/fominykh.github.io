@@ -69,6 +69,7 @@ li{
 }
 #disc {
   list-style-type: disc;
+  font-size:1em;
 }
 #none {
   list-style-type: none;

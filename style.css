@@ -19,7 +19,7 @@ table{
     padding: 5px 10px 5px 10px;
     border:0;
     
-    border-spacing:10px 0;
+    border-spacing:0;
 }
 td{
     padding: 0;

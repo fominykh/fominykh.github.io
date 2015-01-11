@@ -53,7 +53,7 @@ p{
 ul {
     border:0;
     text-align:justify;
-    list-style: circle inside none;
+    list-style: disc inside none;
 }
 
 table.navigation {

@@ -53,10 +53,9 @@ p{
 ul {
     border:0;
     text-align:justify;
+    list-style: square outside none;
 }
-ul.a{
-    list-style-type: circle;
-}
+
 table.navigation {
     background:#F2F2F2;
     text-align:center;

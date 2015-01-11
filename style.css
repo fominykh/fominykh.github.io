@@ -65,11 +65,14 @@ ul {
 #none {
   list-style-type: none;
 }
-
 #navigation {
     background:#F2F2F2;
     text-align:center;
     padding: 15px 0;
+}
+#container {
+    background:#F2F2F2;
+    border 1px red;
 }
 table.content {
     background:white;

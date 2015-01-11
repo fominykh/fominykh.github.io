@@ -70,7 +70,7 @@ li{
 #disc {
   list-style-type: disc;
   padding: 0 0 1px 1px;
-  content: "• -";
+  content:'\2022';
 }
 #none {
   list-style-type: none;

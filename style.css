@@ -63,7 +63,7 @@ ul {
     list-style: inside none;
 }
 li{
-    padding:0px opx 5px 0px;
+    padding:0px 0px 5px 0px;
 }
 #disc {
   list-style-type: disc;

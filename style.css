@@ -17,13 +17,14 @@ table{
     width:100%;
     background-color: white;
     padding: 0;
-    border-right-width: 15px;
-    border-left-width: 15px;
+    border:0;
     border-color:white;
     border-spacing:0;
 }
 td{
-    padding: 0;
+    background:white;
+    text-align:center;
+    padding: 0 1em;
 }
 h1 {
     font-size: 2em;
@@ -74,7 +75,7 @@ li{
 #navigation {
     background:#F2F2F2;
     text-align:center;
-    padding: 15px 0;
+    padding: 1em 0;
 }
 table.footer {
     border-spacing:0;

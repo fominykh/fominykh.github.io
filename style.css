@@ -70,3 +70,9 @@ ul {
     text-align:center;
     padding: 15px 0;
 }
+table.footer {
+    border-spacing:0;
+    padding:0 1em;
+    background-color:#F2F2F2;
+    text-align:center;
+}

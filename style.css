@@ -18,7 +18,7 @@ table{
     border-spacing:10px;
 }
 td{
-    padding: 15px 0;
+    padding: 0;
 }
 h1 {
     font-size: 2em;
@@ -65,10 +65,10 @@ ul {
   list-style-type: none;
 }
 
-table.navigation {
+#navigation {
     background:#F2F2F2;
     text-align:center;
-    
+    padding: 15px 0;
 }
 table.content {
     background:white;

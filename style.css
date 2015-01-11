@@ -23,6 +23,7 @@ table{
 }
 td{
     background:white;
+    text-align:justify;
     padding: 0 1em;
 }
 h1 {

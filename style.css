@@ -7,14 +7,12 @@ min-height: 500px;
 white-space: nowrap;
 min-width: 100px;
 max-width: 200px;
-position: relative;
-z-index: 2;
-}
-.pub_content {
-    position: absolute;
+ position: absolute;
     top: 100px;
     left:0;
+z-index: 2;
 }
+
 .master_header {
 background: #231f20;
 min-height: 3.125em;

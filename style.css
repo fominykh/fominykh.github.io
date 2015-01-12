@@ -59,6 +59,9 @@ h3 {
 p{
     text-align:justify;
 }
+.nowrap {
+    white-space:nowrap;
+}
 ul {
     text-align:justify;
     list-style: inside none;

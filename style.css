@@ -21,6 +21,17 @@ table{
     border-color:white;
     border-spacing:0;
 }
+table.header{
+    background-color:#F2F2F2;
+    padding:0;
+    height:1em;
+}
+table.footer {
+    border-spacing:0;
+    padding:0;
+    background-color:#F2F2F2;
+    text-align:center;
+}
 td{
     background:white;
     text-align:justify;
@@ -82,12 +93,7 @@ li{
     text-align:center;
     padding: 1em 0;
 }
-table.footer {
-    border-spacing:0;
-    padding:0;
-    background-color:#F2F2F2;
-    text-align:center;
-}
+
 hr{
     border: 0;
     height: 1px;

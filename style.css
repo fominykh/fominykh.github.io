@@ -71,6 +71,12 @@ h3 {
     margin-top:0.67em;
     margin-bottom:1px;
 }
+/*important yellow*/
+h5 {
+    background-color:yellow;
+    font-size:0.75em;
+    font-style:bold;
+}
 p{
     text-align:justify;
 }

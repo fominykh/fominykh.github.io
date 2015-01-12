@@ -12,9 +12,8 @@ z-index: 3;
 .pub_section {
 background: white;
 white-space: nowrap;
-position: fixed;
-top: 100px;
-right:0;
+position: relative;
+left:840;
 z-index: 2;
 }
 

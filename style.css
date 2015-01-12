@@ -1,6 +1,10 @@
 html {
     overflow-y: scroll;
 }
+.wrapper {
+background: white;
+position: relative;
+}
 .sn_section {
 background: white;
 white-space: nowrap;

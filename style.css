@@ -16,7 +16,7 @@ z-index: 3;
 }
 .pub_section {
 background: white;
-position: relative;
+position: absolute;
 left:840;
 z-index: 2;
 }

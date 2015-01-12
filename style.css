@@ -61,6 +61,7 @@ p{
 }
 .nowrap {
     white-space:nowrap;
+    background:red;
 }
 ul {
     text-align:justify;

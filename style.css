@@ -37,6 +37,10 @@ td{
     text-align:justify;
     padding: 0 1em 1em 1em;
 }
+td.header{
+    padding: 1em;
+    width:150px;
+}
 h1 {
     font-size: 2em;
     color: black;

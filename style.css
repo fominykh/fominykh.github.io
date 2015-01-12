@@ -71,17 +71,17 @@ h3 {
     margin-top:0.67em;
     margin-bottom:1px;
 }
-/*important yellow*/
-font.highlight {
-    background-color:yellow;
-    font-size:0.75em;
-    font-style:bold;
-}
 p{
     text-align:justify;
 }
 .nowrap {
     white-space:nowrap;
+}
+
+.highlight {
+    background-color:yellow;
+    font-size:0.75em;
+    font-style:bold;
 }
 ul {
     text-align:justify;

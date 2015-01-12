@@ -2,14 +2,11 @@ html {
     overflow-y: scroll;
 }
 .pub_section {
-background: #231f20;
-min-height: 500px;
+background: white;
 white-space: nowrap;
-min-width: 100px;
-max-width: 200px;
 position: fixed;
 top: 100px;
-left:0;
+right:0;
 z-index: 2;
 }
 

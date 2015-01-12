@@ -1,6 +1,14 @@
 html {
     overflow-y: scroll;
 }
+.sn_section {
+background: white;
+white-space: nowrap;
+position: fixed;
+top: 249px;
+left:0;
+z-index: 3;
+}
 .pub_section {
 background: white;
 white-space: nowrap;
@@ -16,7 +24,7 @@ min-height: 3.125em;
 white-space: nowrap;
 min-width: 840px;
 position: relative;
-z-index: 3;
+z-index: 4;
 }
 body {
     font-size: 1em;

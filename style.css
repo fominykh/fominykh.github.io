@@ -1,6 +1,23 @@
 html {
     overflow-y: scroll;
 }
+.pub_section {
+background: #231f20;
+min-height: 500px;
+white-space: nowrap;
+min-width: 100px;
+max-width: 200px;
+position: relative;
+z-index: 2;
+}
+.master_header {
+background: #231f20;
+min-height: 3.125em;
+white-space: nowrap;
+min-width: 840px;
+position: relative;
+z-index: 3;
+}
 body {
     font-size: 1em;
     color: black;

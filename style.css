@@ -81,7 +81,7 @@ p{
 .highlight {
     background-color:yellow;
     font-size:0.75em;
-    font-style:bold;
+    font-weight:bold;
 }
 ul {
     text-align:justify;

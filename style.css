@@ -10,6 +10,11 @@ max-width: 200px;
 position: relative;
 z-index: 2;
 }
+.pub_content {
+    position: absolute;
+    top: 100px;
+    left:0;
+}
 .master_header {
 background: #231f20;
 min-height: 3.125em;

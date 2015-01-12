@@ -6,6 +6,12 @@ background: #F2F2F2;
 position: relative;
 }
 
+.content{
+background: #F2F2F2;
+position: relative;
+max-width:840px;
+}
+
 .sn_section {
 background: white;
 white-space: nowrap;

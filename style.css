@@ -20,9 +20,10 @@ background:transparent;
 max-width:840px;
 margin-left: auto;
 margin-right: auto;
-margin-top:1em;
+margin-top:0;
 margin-bottom:0;
-vertical-align: middle;
+text-align: center;
+padding:1em 0 0 0;
 font: 16px/24px "ProximaNova-Regular", Tahoma, Arial, sans-serif;
 color:white;
 }

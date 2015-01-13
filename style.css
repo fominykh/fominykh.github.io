@@ -35,15 +35,11 @@ z-index: 2;
 background: #231f20;
 min-height: 3.125em;
 white-space: nowrap;
-min-width: 840px;
 position: relative;
 font: 16px/24px "ProximaNova-Regular", Tahoma, Arial, sans-serif;
 color:white;
 padding: 0;
 border: 0;
-vertical-align: middle;
-margin-left: auto;
-margin-right: auto;
 z-index: 4;
 }
 body {

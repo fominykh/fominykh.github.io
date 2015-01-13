@@ -37,6 +37,9 @@ min-height: 3.125em;
 white-space: nowrap;
 min-width: 840px;
 position: relative;
+font: 16px/24px "ProximaNova-Regular", Tahoma, Arial, sans-serif;
+margin-left: auto;
+margin-right: auto;
 z-index: 4;
 }
 body {

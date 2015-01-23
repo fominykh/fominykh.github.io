@@ -50,6 +50,13 @@ white-space: nowrap;
 position: relative;
 z-index: 4;
 }
+
+.smile {
+position: relative;
+background: #F2F2F2;
+padding: 1em;
+width:150px;
+}
 body {
     font-size: 1em;
     color: black;

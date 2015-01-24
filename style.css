@@ -62,10 +62,11 @@ z-index: 4;
 }
 
 .smile {
-position: fixed;
+position: relative;
 background: #F2F2F2;
 padding: 1em;
 width:150px;
+height:150px;
 margin-left: auto;
 margin-right: auto;
 }

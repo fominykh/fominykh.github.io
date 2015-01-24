@@ -199,7 +199,7 @@ ul {
 li{
     
 }
-li.pub{
+#pub_block li{
     padding 5px 0;
     background:f1f1f1;
 }

@@ -5,15 +5,13 @@ html {
 position: relative;
 background: #F2F2F2;
 }
-.content{
+
+.master_header {
+background: #231f20;
+min-height: 3.125em;
+white-space: nowrap;
 position: relative;
-background: #F2F2F2;
-max-width:840px;
-margin-left: auto;
-margin-right: auto;
-margin-top:0;
-margin-bottom:0;
-z-index: 1;
+z-index: 4;
 }
 .menu{
 position: relative;
@@ -28,6 +26,7 @@ padding:0.75em 0 0 0;
 font: 16px/24px "ProximaNova-Regular", Tahoma, Arial, sans-serif;
 color:white;
 }
+
 .name_wrapper{
 background: white;
 min-height: 158px;
@@ -43,6 +42,46 @@ margin-left: auto;
 margin-right: auto;
 padding: 8px 0 0 0;
 z-index: 3;
+}
+.smile {
+position: relative;
+padding: 0;
+width:150px;
+height:150px;
+margin-left: auto;
+margin-right: auto;
+float:left;
+}
+.affiliation {
+position: relative;
+padding: 0;
+height:150px;
+margin-left: 1em;
+margin-right: auto;
+float:left;
+}
+
+.navigation_block{
+position: relative;
+background: #F2F2F2;
+max-width:840px;
+max-height:51px;
+margin-left: auto;
+margin-right: auto;
+margin-top:0;
+margin-bottom:0;
+z-index: 1;
+}
+
+.content{
+position: relative;
+background: #F2F2F2;
+max-width:840px;
+margin-left: auto;
+margin-right: auto;
+margin-top:0;
+margin-bottom:0;
+z-index: 1;
 }
 
 .sn_section {
@@ -60,32 +99,10 @@ left:840;
 z-index: 2;
 }
 
-.master_header {
-background: #231f20;
-min-height: 3.125em;
-white-space: nowrap;
-position: relative;
-z-index: 4;
-}
 
-.smile {
-position: relative;
-padding: 0;
-width:150px;
-height:150px;
-margin-left: auto;
-margin-right: auto;
-float:left;
-}
 
-.affiliation {
-position: relative;
-padding: 0;
-height:150px;
-margin-left: 1em;
-margin-right: auto;
-float:left;
-}
+
+
 
 body {
     font-size: 1em;

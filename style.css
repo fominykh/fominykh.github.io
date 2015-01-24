@@ -75,7 +75,7 @@ padding: 16px 0;
 z-index: 1;
 }
 
-.content{
+.content_wrapper{
 position: relative;
 background: #F2F2F2;
 max-width:840px;

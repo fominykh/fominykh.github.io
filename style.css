@@ -63,6 +63,7 @@ float:left;
 
 .navigation_block{
 position: relative;
+text-align:center;
 background: #F2F2F2;
 max-width:840px;
 max-height:51px;

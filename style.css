@@ -91,6 +91,7 @@ background: white;
 position: absolute;
 left:840;
 margin-left:8px;
+padding: 1em;
 z-index: 2;
 }
 .sn_section {

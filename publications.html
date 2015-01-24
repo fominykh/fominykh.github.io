@@ -7,18 +7,10 @@
 
 <script src="jquery-2.1.1.js"></script> 
     <script> 
-    $(function(){
-      $("#bottom").load("bottom.html"); 
-    });
-	$(function(){
-      $("#header").load("header.html"); 
-    });
-    	$(function(){
-      $("#pub").load("pub.html");
-    });
-    	$(function(){
-      $("#master").load("master.html");
-    });
+    	$(function(){$("#bottom").load("bottom.html");});
+	$(function(){$("#header").load("header.html");});
+    	$(function(){$("#pub").load("pub.html");});
+    	$(function(){$("#master").load("master.html");});
 </script>
 </head>
 <body>
@@ -27,7 +19,9 @@
 	<div class="master_header">
 		<div class="menu" id="master"></div>
 	</div>
-	<div id="header"></div>
+	<div>
+		<div id="header"></div>
+	</div>
 	
 <div class="content">
 <div class="pub_section">

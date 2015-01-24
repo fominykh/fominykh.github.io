@@ -52,7 +52,7 @@ z-index: 4;
 }
 
 .smile {
-position: relative;
+position: fixed;
 background: #F2F2F2;
 padding: 1em;
 width:150px;

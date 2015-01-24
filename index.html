@@ -7,22 +7,24 @@
 
 <script src="jquery-2.1.1.js"></script> 
     <script> 
-    $(function(){
-      $("#bottom").load("bottom.html"); 
-    });
-	$(function(){
-      $("#header").load("header.html"); 
-    });
+    	$(function(){$("#bottomPage").load("bottom.html");});
+	$(function(){$("#headerPage").load("header.html");});
+    	$(function(){$("#masterPage").load("master.html");});
 </script>
 </head>
 <body>
 
-<div id="header"></div>
-
-<table>
-  	<tr>
-		<td id="navigation">
-			Home
+<div class="wrapper">
+	<div class="master_header">
+		<div class="menu" id="masterPage"></div>
+	</div>
+	<div class="name_wrapper">
+		<div class="name_block">
+			<div id="headerPage"></div>
+		</div>
+	</div>
+<div class="navigation_block">
+Home
 			<b>|</b>
 			<a href="activities.html">Activities</a>
 			<b>|</b>
@@ -37,11 +39,14 @@
 			<a href="cv.html">CV</a>
 			<b>|</b>
 			<a href="contact.html">Contact</a>
-		</td>
-	</tr>
-	<tr>
-		<td>
+</div>
+<div class="content">
 
+
+
+<table>
+<tr>
+	<td>
 <h1>Coming up</h1>
 
 <p>
@@ -99,6 +104,8 @@ I am an independent researcher working in the area of Technology-Enhanced Learni
 	</td>
 </tr>
 </table>
-<div id="bottom"></div>
+</div> <!--content*//-->
+<div id="bottomPage"></div>
+</div> <!--wrapper*//-->
 </body>
 </html>

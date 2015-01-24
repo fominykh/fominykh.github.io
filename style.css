@@ -86,7 +86,7 @@ margin-bottom:0;
 z-index: 1;
 }
 
-.pub_section {
+.pub_block {
 background: white;
 position: absolute;
 left:840;
@@ -94,7 +94,7 @@ margin-left:8px;
 padding: 1em;
 z-index: 2;
 }
-.sn_section {
+.sn_block {
 background: white;
 white-space: nowrap;
 position: fixed;
@@ -199,7 +199,7 @@ ul {
 li{
     
 }
-.pub_block{
+.pub_list{
     padding 5px 0;
     background-color:f1f1f1;
 }

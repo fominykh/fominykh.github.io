@@ -34,6 +34,7 @@ background:transparent;
 max-width:840px;
 margin-left: auto;
 margin-right: auto;
+z-index: 3;
 }
 
 .sn_section {

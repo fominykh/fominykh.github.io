@@ -200,8 +200,9 @@ li{
     
 }
 .pub_list{
-    margin 5px 0;
-    background-color:f1f1f1;
+    margin: 5px 0;
+    background-color:red;
+    border:1px solid grey;
 }
 
 #disc {

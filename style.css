@@ -100,7 +100,7 @@ margin-bottom:0;
 z-index: 2;
 }
 
-@media screen and (max-width:840px){
+@media screen and (max-width:1051px){
    .pub_block {display: none;}
 }
 

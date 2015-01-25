@@ -102,7 +102,7 @@ z-index: 2;
 
 .outer{
     overflow: hidden;
-    position: relative;
+    position: absolute;
 }
 .pub_block {
 background: white;

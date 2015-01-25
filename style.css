@@ -100,9 +100,8 @@ margin-bottom:0;
 z-index: 2;
 }
 
-.outer{
-    overflow: hidden;
-    position: relative;
+@media screen and (max-width:840px){
+   .pub_block {display: none;}
 }
 
 .pub_block {

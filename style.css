@@ -73,6 +73,19 @@ margin-top:0;
 margin-bottom:0;
 padding: 16px 0;
 z-index: 1;
+
+display: inline-block;
+}
+
+.f-nav{  /* To fix main menu container */
+    z-index: 9999;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+}
+#main-menu-container {
+    text-align: center; /* Assuming your main layout is centered */
 }
 
 .content_wrapper{

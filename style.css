@@ -90,8 +90,8 @@ display: inline-block;
 .f-pub{  /* To fix main pub block container */
     z-index: 9999;
     position: fixed;
-    left: 840;
-    top: 51;
+    left: 0;
+    top: 0;
     width: 484px;
 }
 #pub_block_container {

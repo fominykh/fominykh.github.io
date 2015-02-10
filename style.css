@@ -65,7 +65,7 @@ float:left;
 position: relative;
 text-align:center;
 background: #F2F2F2;
-max-width:840px;
+width:840px;
 max-height:51px;
 margin-left: auto;
 margin-right: auto;
@@ -84,8 +84,8 @@ display: inline-block;
     top: 0;
     width: 100%;
 }
-#main-menu-container {
-    text-align: center; /* Assuming your main layout is centered */
+#navigation_container {
+    text-align: center;
 }
 
 .content_wrapper{

@@ -73,7 +73,6 @@ margin-top:0;
 margin-bottom:0;
 padding: 16px 0;
 z-index: 1;
-
 display: inline-block;
 }
 
@@ -86,6 +85,17 @@ display: inline-block;
 }
 #navigation_container {
     text-align: center;
+}
+
+.f-pub{  /* To fix main pub block container */
+    z-index: 9999;
+    position: fixed;
+    left: 840;
+    top: 0;
+    width: 100%;
+}
+#pub_block_container {
+    
 }
 
 .content_wrapper{
@@ -124,6 +134,7 @@ left:840;
 margin-left:8px;
 padding: 1em;
 z-index: 2;
+display: inline-block;
 }
 .sn_block {
 background: white;

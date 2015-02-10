@@ -20,6 +20,19 @@
     	$(function(){$("#pubPage").load("pub.html");});
     	$(function(){$("#publicationsContent").load("publications_content.html");});
 </script>
+<script>
+$("document").ready(function($){
+    var nav = $('#main-menu-container');
+
+    $(window).scroll(function () {
+        if ($(this).scrollTop() > 125) {
+            nav.addClass("f-nav");
+        } else {
+            nav.removeClass("f-nav");
+        }
+    });
+});
+</script>
 </head>
 <body>
 

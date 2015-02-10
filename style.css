@@ -91,8 +91,8 @@ display: inline-block;
     z-index: 9999;
     position: fixed;
     left: 840;
-    top: 0;
-    width: 100%;
+    top: 51;
+    width: 484px;
 }
 #pub_block_container {
     

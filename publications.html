@@ -22,13 +22,16 @@
 </script>
 <script>
 $("document").ready(function($){
-    var nav = $('#navigation_container');
-
-    $(window).scroll(function () {
+	var nav = $('#navigation_container');
+	var pub = $('#publication_container');
+    	
+    	$(window).scroll(function () {
         if ($(this).scrollTop() > 208) {
             nav.addClass("f-nav");
+            pub.addClass("f-pub");
         } else {
             nav.removeClass("f-nav");
+            pub.removeClass("f-pub");
         }
     });
 });
@@ -66,7 +69,9 @@ $("document").ready(function($){
 
 </div>
 <div class="content_wrapper">
-	<div class="pub_block" id="pubPage"></div>
+	<div id="publication_container">
+		<div class="pub_block" id="pubPage"></div>
+	</div>
 	<div class="content" id="publicationsContent"></div>
 	<!--void comment*//-->
 </div> <!--content_wrapper*//-->

@@ -124,10 +124,10 @@ z-index: 2;
 }
 
 @media screen and (max-width:1051px){
-   .pub_block {display: none;}
+   .pub_block_content {display: none;}
 }
 
-.pub_block {
+.pub_block_content {
 background: white;
 position: absolute;
 left:840;

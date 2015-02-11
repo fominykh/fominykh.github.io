@@ -96,7 +96,7 @@ display: inline-block;
 }
 #pub_block_container {
 background: white;
-left:840;
+position: absolute;
 width:175px;
 margin-left:8px;
 padding: 1em;

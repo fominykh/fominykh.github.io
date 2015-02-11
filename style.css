@@ -87,21 +87,6 @@ display: inline-block;
     text-align: center;
 }
 
-.f-pub{  /* To fix main pub block container */
-    z-index: 9999;
-    position: fixed;
-    left: 0;
-    top: 0;
-    width: 100%;
-}
-#pub_block_container {
-background: white;
-position: absolute;
-width:175px;
-margin-left:8px;
-padding: 1em;
-z-index: 2;
-}
 
 .pub_block {
 background: white;
@@ -116,7 +101,7 @@ display: inline-block;
 }
 
 @media screen and (max-width:1051px){
-   .pub_block_content {display: none;}
+   .pub_block {display: none;}
 }
 
 .content_wrapper{

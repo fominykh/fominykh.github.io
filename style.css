@@ -95,8 +95,12 @@ display: inline-block;
     width: 484px;
 }
 #pub_block_container {
-    text-align: center;
-    position:relative;
+background: white;
+position: absolute;
+left:840;
+margin-left:8px;
+padding: 1em;
+z-index: 2;
 }
 
 .content_wrapper{
@@ -128,14 +132,6 @@ z-index: 2;
    .pub_block_content {display: none;}
 }
 
-.pub_block {
-background: white;
-position: absolute;
-left:840;
-margin-left:8px;
-padding: 1em;
-z-index: 2;
-}
 .pub_block_content {
 background: white;
 position: absolute;

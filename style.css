@@ -103,12 +103,13 @@ padding: 1em;
 z-index: 2;
 }
 
-.pub_block_content {
+.pub_block {
 background: white;
 position: absolute;
-width:175px;
-top:208;
-margin-left:8px;
+width: 175px;
+top: 51;
+left: 840px;
+margin-left: 8px;
 padding: 1em;
 z-index: 2;
 display: inline-block;

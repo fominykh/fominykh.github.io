@@ -96,6 +96,7 @@ display: inline-block;
 }
 #pub_block_container {
     text-align: center;
+    position:relative;
 }
 
 .content_wrapper{

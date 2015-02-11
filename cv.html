@@ -19,6 +19,19 @@
     	$(function(){$("#masterPage").load("master.html");});
     	$(function(){$("#cvContent").load("cv_content.html");});
 </script>
+<script>
+$("document").ready(function($){
+	var nav = $('#navigation_container');
+    	
+    	$(window).scroll(function () {
+        if ($(this).scrollTop() > 208) {
+            nav.addClass("f-nav");
+        } else {
+            nav.removeClass("f-nav");
+        }
+    });
+});
+</script>
 </head>
 <body>
 

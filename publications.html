@@ -23,15 +23,12 @@
 <script>
 $("document").ready(function($){
 	var nav = $('#navigation_container');
-	var pub = $('#pub_block_container');
     	
     	$(window).scroll(function () {
         if ($(this).scrollTop() > 208) {
             nav.addClass("f-nav");
-            pub.addClass("f-pub");
         } else {
             nav.removeClass("f-nav");
-            pub.removeClass("f-pub");
         }
     });
 });
@@ -65,13 +62,11 @@ $("document").ready(function($){
 	<a href="cv.html">CV</a>
 	<b>|</b>
 	<a href="contact.html">Contact</a>
+	
 	<div class="pub_block" id="pubPage"></div>
 </div>
 </div>
 
-<div id="pub_block_container"> <!--container for displaying on top when scrolling*//-->
-	
-</div>
 <div class="content_wrapper">
 	<div class="content" id="publicationsContent"></div>
 	<!--void comment*//-->

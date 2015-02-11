@@ -106,9 +106,9 @@ z-index: 2;
 .pub_block_content {
 background: white;
 position: absolute;
-width:100%;
-top:0;
-left:0;
+width:175px;
+top:208;
+left:840;
 margin-left:8px;
 padding: 1em;
 z-index: 2;

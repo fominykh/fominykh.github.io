@@ -12,6 +12,7 @@ min-height: 3.125em;
 white-space: nowrap;
 position: relative;
 z-index: 4;
+float:right;
 }
 .menu{
 position: relative;

@@ -40,7 +40,7 @@ color:white;
 .name_wrapper{
 background: white;
 min-height: 158px;
-white-space: nowrap;
+white-space: normal;
 position: relative;
 z-index: 4;
 }

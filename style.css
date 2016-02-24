@@ -208,6 +208,10 @@ li{
 #none {
   list-style-type: none;
 }
+#empty {
+  list-style-type: none;
+  padding: 10px 0 0 0;
+}
 #navigation {
     background:#F2F2F2;
     text-align:center;

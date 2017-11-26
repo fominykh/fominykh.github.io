@@ -210,11 +210,11 @@ li{
 }
 #empty {
   list-style-type: none;
-  padding: 0 0 0 15px;
+  padding: 0 0 0 25px;
 }
 #resp {
   list-style-type: none;
-  padding: 0 0 0 25px;  
+  padding: 0 0 0 50px;  
   font-style: italic;
 }
 #navigation {

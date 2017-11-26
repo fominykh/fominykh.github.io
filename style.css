@@ -212,6 +212,12 @@ li{
   list-style-type: none;
   padding: 0 0 0 15px;
 }
+#resp {
+  list-style-type: none;
+  padding: 0 0 0 20px;
+  color: grey;
+  font: italic;
+}
 #navigation {
     background:#F2F2F2;
     text-align:center;
